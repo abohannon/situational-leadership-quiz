@@ -102,7 +102,7 @@ export default [
   {
     id: 6,
     question:
-      "This leadership behavior is most commonly referred to as the 'Coaching' style.",
+      "This leadership style is most commonly referred to as the 'Coaching' style.",
     answers: [
       {
         content: "S4",
@@ -122,7 +122,7 @@ export default [
   {
     id: 7,
     question:
-      "This leadership behavior is most commonly referred to as the 'Supporting' style.",
+      "This leadership style is most commonly referred to as the 'Supporting' style.",
     answers: [
       {
         content: "S4",
@@ -142,7 +142,7 @@ export default [
   {
     id: 8,
     question:
-      "This leadership behavior is most commonly referred to as the 'Delegating' style.",
+      "This leadership style is most commonly referred to as the 'Delegating' style.",
     answers: [
       {
         content: "S4",
@@ -260,7 +260,7 @@ export default [
     correctAnswer: "D1",
   },
   {
-    id: 13,
+    id: 14,
     question:
       "Which of the following is something a leader using the S3 leadership style would say to their direct report.",
     answers: [
@@ -280,5 +280,25 @@ export default [
       },
     ],
     correctAnswer: "What's getting in your way? How can I help?",
+  },
+  {
+    id: 15,
+    question:
+      '"I know this is harder than you thought it was going to be, but I know you can do this. I\'m here to help." These statements are most in line with which leadership style?',
+    answers: [
+      {
+        content: "Perceiving",
+      },
+      {
+        content: "S1",
+      },
+      {
+        content: "S2",
+      },
+      {
+        content: "S3",
+      },
+    ],
+    correctAnswer: "S2",
   },
 ];
